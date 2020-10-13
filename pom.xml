@@ -25,7 +25,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>p1.WordCount</mainClass>
+                            <mainClass>p1.InnerJoin</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -30,12 +30,4 @@ public class WordCount
             env.execute("WordCount Example");
         }
     }
-//    public static final class Tokenizer
-//            implements MapFunction<String, Tuple2<String, Integer>>
-//    {
-//        public Tuple2<String, Integer> map(String value)
-//        {
-//            return new Tuple2<>(value, 1);
-//        }
-//    }
 }

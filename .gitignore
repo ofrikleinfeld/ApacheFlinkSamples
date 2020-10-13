@@ -24,3 +24,6 @@ hs_err_pid*
 
 # ignore idea
 .idea/
+
+# ignore target files and jars
+target/
